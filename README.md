@@ -6,7 +6,9 @@ Clone original repository by run this code:
     !git clone https://github.com/microsoft/GenerativeImage2Text.git
 
 ### Goal
-The repository is built for case competition [Data Analytics for good](https://krannert.purdue.edu/events/gscm-case-competition/), jointly sponsored by  the School of Management, Krenicki Center, Microsoft, SIL International, and INFORMS. Our team ranked **3rd of 172**.
+The repository is built for case competition [Data Analytics for good](https://krannert.purdue.edu/events/gscm-case-competition/), jointly sponsored by  the School of Management, Krenicki Center, Microsoft, SIL International, and INFORMS. Our team (Northeastern University) ranked **3rd of 172**.
+
+![image](https://user-images.githubusercontent.com/64514218/213558310-8339a7d3-ea36-4c4c-9d77-997dbb31c3b2.png)
 
 ### Background
 New text-to-image and image-to-text models (like Stable Diffusion) are taking the AI world by storm. One related task, which has direct business impact, is called "image captioning." This task takes an image as input and generates a text caption as output. Businesses can utilize image captioning models to:
