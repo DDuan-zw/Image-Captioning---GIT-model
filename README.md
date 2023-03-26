@@ -1,6 +1,6 @@
 # Image-Captioning---GIT-model
 Retrain Generative-Image-to-Text-model\
-**The model is highly depends on [GIT Repository](https://github.com/microsoft/GenerativeImage2Text).**
+**We fine-tuned the [GIT Model](https://github.com/microsoft/GenerativeImage2Text) on non-dominant languages (Hausa, Thai, Kyrgyz ), and get prize of $3000 in this US-national competition.**
 Clone original repository by run this code:
 
     !git clone https://github.com/microsoft/GenerativeImage2Text.git
